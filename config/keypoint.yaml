@@ -1,0 +1,5 @@
+sift3d:
+    min_scale           : 0.01
+    nr_octaves          : 5
+    nr_scales_per_octave: 5
+    min_contrast        : 0.075

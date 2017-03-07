@@ -1,0 +1,3 @@
+sac_model_plane:
+  distance_threshold        : 0.1
+  is_optimize_coefficients  : true
